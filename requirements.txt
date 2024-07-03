@@ -7,5 +7,3 @@ assemblyai
 python-dotenv
 langchain-openai
 langchain
-openai
-langchain_openai
