@@ -6,3 +6,4 @@ streamlit-mic-recorder
 assemblyai
 python-dotenv
 langchain-openai
+langchain
