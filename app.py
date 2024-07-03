@@ -21,7 +21,7 @@ Below is the answer provided by the user:
 {answer}'''),]
 )
 
-model=ChatOpenAI( model="gpt-4o",)
+model=ChatOpenAI(model="gpt-3.5-turbo-0125")
 chain=prompt|model
 sub_questions=" "
 
